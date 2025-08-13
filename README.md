@@ -202,19 +202,6 @@ Three mechanisms explain the 3.07% performance advantage:
 2. **Optimization Landscape Enhancement** - Favorable training conditions
 3. **Knowledge Representation Diversity** - Robust ensemble guidance
 
-## 📚 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@inproceedings{moghadasi2025cross,
-  title={Cross-Paradigm Knowledge Distillation: A Comprehensive Empirical Framework for Heterogeneous Model Compression in Big Data Environments},
-  author={Moghadasi, Mahdi Naser},
-  booktitle={IEEE International Conference on Big Data},
-  year={2025},
-  organization={IEEE}
-}
-```
 
 ## 🤝 Contributing
 
